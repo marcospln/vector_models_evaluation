@@ -1,0 +1,21 @@
+animal(animal): oso, touro, camelo, gato, vaca, cervo, can, elefante, cabalo, gatiño, león, macaco, rato, ostra, cachorro, rata, ovella, tigre, tartaruga, cebra
+pose (bens): reserva, atribución, capital, crédito, distribución, fondo, ganancia, ouro, participación, rendemento, xuro, investimento, marxe, hipoteca, recompensa, lucro, cota, tributo, tesouro, risco, aposta
+fenómeno natural (fenómeno atmosférico): corrente de aire, aurora, refacho, cicloxénese, nube, ballón, vento cruzado, ciclón, chuvasco, nevoeiro, furacán, relámpago, tempestade, tempestade de area, lóstrego, nevada, treboada, tornado, temporal, tifón, vento
+substancia química (elemento): aluminio, bismuto, cadmio, calcio, carbono, carbón, cobre, xermanio, helio, hidróxeno, ferro, litio, magnesio, neon, azote, osíxeno, platino, potasio, prata, titanio, cinc
+persoa (creador): arquitecto, artista, albanel, construtor, artesán, deseñador, promotor, agricultor, inventor, fabricante, armeiro, músico, creador, pintor, fotógrafo, produtor, alfaiate
+localización (zona): ancoradoiro, fronteira, vila, califato, cantón, cidade, país, municipio, reino, terra, metrópole, parroquia, comarca, rexión, beiramar, condado, estado, suburbio, litoral, vila, aldea
+obxecto natural (froito comestíbel): mazá, banana, baga, cereixa, uva, kiwi, limón, manga, melón, oliva, laranxa, pexego, pera, ananás, amorodo, sandía
+sentimento (sentimento): rabia, desexo, medo, felicidade, alegría, amor, dor, paixón, pracer, tristeza, sensibilidade, vergoña, admiración
+acción (xogo): bacará, baloncesto, bingo, peletre, xadrez, petanca, buxaina, fútbol, golf, balonmán, mariola, billarda, estornela, lotaría, rugby, bádminton, cricket, tenis, voleibol, squash
+estado (doenza): acne, tumor, artrite, asma, cancro, cólera, cirrose, diabetes, eccema, gripe, glaucoma, hepatite, leucemia, desnutrición, meninxite, peste, reumatismo, varíola
+relación (documento legal): admisión, atribución, proxecto de lei, obriga, verificación, cheque, constitución, convención, decreto, proxecto, certificado, lei, licenza, obrigación, parecer, edicto, poder, partilla, estatuto, opción de compra, tratado
+marco (unidade monetaria): céntimo, coroa, dinar, centavo, dólar, rupia, florín, won, real, ringgit, euro, marco, rublo, peso, libra, rial, dram, kwanza, naira, baht, złoty
+motivación (motivación): compulsión, consciencia, disuasión, desalento, abatemento, ética, impulso, incentivo, incitación, persuasión, vida, manía, moralidade, motivador, obsesión, ocasión, pose, superego, impulso, desexo de viaxar
+cognición (dor): dor, dor de costas, dor de barriga, queimadura, bocha, dor de cabeza, lumbago, xaqueca, neuralxia, ciática, úlcera, picadura, ardor, punto, sufrimento, sensibilidade, palpitación, dor de dentes, tormento
+atributo (característica física): frío, frescura, deflexión, diámetro, extensión, brillo, peso, lonxitude, masa, enerxía, plasticidade, carga, raio, reflexión, pequenez, presión, extensión, temperatura, visibilidade, magnitude
+evento (evento social): baile, celebración, cerimonia, conmemoración, serán, coroación, foliada, beatificación, banquete, festa, voda, colecta, funeral, graduación, inauguración, gala, cabodano, festa de aniversario, homenaxe, casamento
+grupo (unidade social): axencia, filial, brigada, conxunto, club, comité, firma, confederación, departamento, tribunal, familia, pobo, agregado familiar, alianza, lexión, estado, departamento, pelotón, equipo, tribo, tropa 
+forma (sólido): concavidade, canto, dobra, cubo, cuboide, cilindro, dodecaedro, cúpula, inclinación, estría, icosaedro, crocadura, entalla, protuberancia, octaedro, ovoide, círculo, ángulo, cono, tetraedro
+tempo (tempo): eternidade, data, día, época, futuro, xestación, antigüidade, menopausa, momento, presente, período, cuaternario, hoxe, mañá, hoxe á noite, onte, ano pasado
+planta (árbore): acacia, bidueiro, castañeiro, quina, coco, conífera, figueira, silveira, limoeiro, laranxeira, cidreira, tamargueira, carballo, palmeira, piñeiro, pistacho, sobreira, eucalipto, árbore nova, sicómoro, nogueira
+artefacto (vehículo): aeronave, avión, automóbil, bicicleta, barco, carro, cruceiro, helicóptero, moto, motocicleta, gamela, navío, camión, furgoneta
